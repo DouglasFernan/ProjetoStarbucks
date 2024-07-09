@@ -1,0 +1,1 @@
+Bem vindo ao Starbucks! Mais um projeto feito no curso da B7Web para reforçar os meus conhecimentos em HTML e CSS. Dessa vez, o projeto trata-se de um clone do site da Starbucks, feito apenas para fins didaticos.
